@@ -31,7 +31,7 @@ public class FirstTvnetTest {
         WebElement acceptBtn = browserWindow.findElement(ACCEPT_COOKIES_BTN);
         acceptBtn.click();
 
-
+        //comment for GIT
 
 
     }
